@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MansiK97
-- 👀 I’m interested in Neuroscience and Imaging
-- 🌱 I’m currently learning R, Python
+- 👋 Hi, I’m Mansi
+- 👀 I’m interested in Neuroscience and Medical Imaging
+- 🌱 I’m currently playing around with deep learning algos for Medical Imaging
 
 <!---
 MansiK97/MansiK97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
